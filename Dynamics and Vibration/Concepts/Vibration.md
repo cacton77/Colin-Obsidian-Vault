@@ -1,0 +1,1 @@
+#### "Vibration is an [[Oscillatory Motion]] around an [[Equilibrium Position]] of a system."

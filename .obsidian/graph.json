@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path: \"Dynamics and Vibration\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.81709401709402,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.162393162393162,
+  "repelStrength": 9.4017094017094,
+  "linkStrength": 0.760683760683761,
+  "linkDistance": 339,
+  "scale": 0.3628873693012133,
+  "close": true
+}

@@ -1,0 +1,1 @@
+Excessive [[Vibration]] over time accumulates fatigue and leads to failure of structural and mechanical components. A designer can isolate a system from vibrations and thus reduce the liklihood of fatigue failure.

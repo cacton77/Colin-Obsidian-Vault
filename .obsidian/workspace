@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "8d108833c8cec8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c994f77fe80c4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Control Systems Engineering/Chapter 1/1. Introduction.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d0518647ce2ecdeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Control Systems Engineering/Chapter 1/1. Introduction.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b33c0080dfc7bc13",
+    "type": "split",
+    "children": [
+      {
+        "id": "d660246aa4ad3839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800378d1d2a428a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90d4e7fa501c1ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "9661aa56d8b78fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c208f93efb9d96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075f46f2d34e5db1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Control Systems Engineering/Chapter 1/1. Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43c994f77fe80c4f",
+  "lastOpenFiles": [
+    "Control Systems Engineering/Chapter 1/1. Introduction.md",
+    "Input Transducer.md",
+    "Controller.md",
+    "Plant.md",
+    "Control System.md",
+    "Control Systems Engineering/Text Notes/1. Introduction.md",
+    "Pasted image 20210930161030.png",
+    "Dynamics and Vibration/Chapter 1/1. Governing Equations of Discrete Systems.md",
+    "Control Systems Engineering/Text Notes/Chapter 1.md",
+    "Untitled.md"
+  ]
+}
