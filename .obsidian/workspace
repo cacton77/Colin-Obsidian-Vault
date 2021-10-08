@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ME 588 Dynamics and Vibration/Concepts/Constriant Forces.md",
+            "file": "ME 564 Mechanical Engineering Analysis/Chapter 1/1.5 Linear ODEs. Bernoilli Equation. Population Dynamics.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "593aca547a56e14d",
+        "id": "3dcffae19d193712",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ME 588 Dynamics and Vibration/Concepts/Constriant Forces.md",
+            "file": "ME 564 Mechanical Engineering Analysis/Chapter 1/1.5 Linear ODEs. Bernoilli Equation. Population Dynamics.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ME 588 Dynamics and Vibration/Concepts/Constriant Forces.md",
+                "file": "ME 564 Mechanical Engineering Analysis/Chapter 1/1.5 Linear ODEs. Bernoilli Equation. Population Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a8ddcced081c6001",
   "lastOpenFiles": [
+    "ME 564 Mechanical Engineering Analysis/Chapter 1/1.5 Linear ODEs. Bernoilli Equation. Population Dynamics.md",
+    "ME 564 Mechanical Engineering Analysis/Chapter 1/1. First Order ODEs.md",
+    "ME 599 Automatic Controls/Chapter 1/1. Introduction.md",
+    "ME 588 Dynamics and Vibration/Chapter 1/1. Governing Equations of Discrete Systems.md",
+    "ME 564 Mechanical Engineering Analysis/Chapter 1/Untitled.md",
     "ME 588 Dynamics and Vibration/Concepts/Constriant Forces.md",
     "markdown-cheat-sheet.md",
-    "ME 588 Dynamics and Vibration/Chapter 1/1. Governing Equations of Discrete Systems.md",
     "Input Transducer.md",
     "Implicit Solution.md",
-    "Mechanical Engineering Analysis/Chapter 1/1. First Order ODEs.md",
-    "Control Systems Engineering/Chapter 1/1. Introduction.md",
-    "General Solution.md",
-    "Mechanical Engineering Analysis/Concepts/Implicit Form.md",
-    "Implicit Form.md"
+    "Mechanical Engineering Analysis/Chapter 1/1. First Order ODEs.md"
   ]
 }
